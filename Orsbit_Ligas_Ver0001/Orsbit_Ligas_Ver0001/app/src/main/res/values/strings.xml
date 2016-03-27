@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FutGol</string>
+
+    <string name="title_section1">Principal</string>
+    <string name="title_section2">Posiciones</string>
+    <string name="title_section3">Jornadas</string>
+    <string name="title_section4">Goleadores</string>
+    <string name="title_section5">Información</string>
+
+    <string name="aim">No era penal</string>
+    <string name="bebo">Noticia 2</string>
+    <string name="youtube">Noticia 3</string>
+
+    <string name="aim_description"> </string>
+    <string name="bebo_description">Descripción Noticia 2</string>
+    <string name="youtube_description">Descripción Noticia 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">.</string>
+
+    <string name="action_settings">Configuración</string>
+
+
+</resources>
